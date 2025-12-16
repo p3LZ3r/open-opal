@@ -1,0 +1,11 @@
+# Core dependencies
+depthai>=2.24.0
+pyvirtualcam>=0.10.0
+PyQt6>=6.5.0
+
+# Build dependencies
+pyinstaller>=5.13.0
+
+# Optional for debugging
+numpy>=1.24.0
+opencv-python>=4.7.0
